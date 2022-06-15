@@ -1,2 +1,1 @@
-This template was made by Colorlib (https://colorlib.com)
-Please visit our website for more awesome templates, themes and tools. 
+link demo : https://nhantruong0411.github.io/FireGroup-customFilter/
